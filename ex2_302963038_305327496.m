@@ -199,6 +199,7 @@ fprintf('Test No.%d results:\n median: %d mean: %d max: %d min: %d\n', ...
     test_num, median_tests_filt(test_num), mean_tests_filt(test_num), ...
     max_tests_filt(test_num), min_tests_filt(test_num));
 
+% As can be seen , the median,mean,max,min does not change much.  
 disp('  ');
 
 %% Q11
